@@ -14,11 +14,6 @@ A collection of all of my favorite GitHub automation tools.
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🍴 My recent forks
-{{range recentForks 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username={{.Owner.Login}}&repo={{.Name}})]({{.URL}})
