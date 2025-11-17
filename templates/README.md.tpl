@@ -14,12 +14,6 @@ A collection of all of my favorite GitHub automation tools.
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-{{- $split := split .Name "/" -}}
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username={{index $split 0}}&repo={{index $split 1}})]({{.URL}})
-{{- end}}
-
 #### 🔨 My recent Pull Requests
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
