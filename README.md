@@ -1,2 +1,3 @@
-# profile-stats
-An example repository for some of the great things you can do with GitHub profile stats automation
+# Awesome GitHub Profile
+
+A collection of all of my favorite GitHub automation tools.
