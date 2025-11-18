@@ -19,7 +19,7 @@ A collection of all of my favorite GitHub automation tools.
 
 #### 🌱 My latest projects
 
-- [LukeHagar/parke.dev](https://github.com/LukeHagar/parke.dev) - My personal website
+- [LukeHagar/parke.dev](https://github.com/LukeHagar/parke.dev) - A new set of personal sites
 - [LukeHagar/volar-docs](https://github.com/LukeHagar/volar-docs) - An attempt at documenting the VolarJS framework
 - [LukeHagar/sui](https://github.com/LukeHagar/sui) - A simple selfhostable homepage written in svelte
 - [LukeHagar/omarchy-dream-theme](https://github.com/LukeHagar/omarchy-dream-theme) - 
