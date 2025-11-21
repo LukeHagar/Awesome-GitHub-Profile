@@ -6,9 +6,9 @@ A collection of all of my favorite GitHub automation tools.
 
 #### 👷 Check out what I'm currently working on
 
-- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats (1 day ago)
+- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats (today)
+- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date (today)
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile (1 day ago)
-- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date (1 day ago)
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API Documentation (1 day ago)
 - [LukeHagar/parke.dev](https://github.com/LukeHagar/parke.dev) - A new set of personal sites (3 days ago)
 - [LukeHagar/Awesome-GitHub-Profile](https://github.com/LukeHagar/Awesome-GitHub-Profile) - An example repository for some of the great things you can do with GitHub profile automation (4 days ago)
