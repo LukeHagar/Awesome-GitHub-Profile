@@ -6,16 +6,16 @@ A collection of all of my favorite GitHub automation tools.
 
 #### 👷 Check out what I'm currently working on
 
-- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats (today)
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile (today)
-- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date (today)
-- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API Documentation (2 days ago)
-- [LukeHagar/parke.dev](https://github.com/LukeHagar/parke.dev) - A new set of personal sites (4 days ago)
-- [LukeHagar/Awesome-GitHub-Profile](https://github.com/LukeHagar/Awesome-GitHub-Profile) - An example repository for some of the great things you can do with GitHub profile automation (5 days ago)
+- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats (1 day ago)
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile (1 day ago)
+- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date (1 day ago)
+- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API Documentation (3 days ago)
+- [LukeHagar/parke.dev](https://github.com/LukeHagar/parke.dev) - A new set of personal sites (5 days ago)
+- [LukeHagar/Awesome-GitHub-Profile](https://github.com/LukeHagar/Awesome-GitHub-Profile) - An example repository for some of the great things you can do with GitHub profile automation (6 days ago)
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK (1 week ago)
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - A Plex Media Server OpenAPI Specification maintained by the community (1 week ago)
 - [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi) - A prettier plugin to organize OpenAPI files for human readability (1 week ago)
-- [LukeHagar/volar-docs](https://github.com/LukeHagar/volar-docs) - An attempt at documenting the VolarJS framework (1 week ago)
+- [LukeHagar/volar-docs](https://github.com/LukeHagar/volar-docs) - An attempt at documenting the VolarJS framework (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -51,7 +51,7 @@ A collection of all of my favorite GitHub automation tools.
 
 - [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript (4 weeks ago)
 - [appwrite/console](https://github.com/appwrite/console) - The Console that makes Appwrite tick from the browser  🖥 (4 weeks ago)
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business. (4 weeks ago)
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business. (1 month ago)
 - [DaoFlow-dev/DaoFlow](https://github.com/DaoFlow-dev/DaoFlow) - Instead of AWS wrapper, we&#39;re building bare metal  / VM wrappers for you. Open source alternative to AWS/Vercel/Heroku. Hosting your flow, from Vibe Coding to IPO. (1 month ago)
 - [stolinski/zero-svelte](https://github.com/stolinski/zero-svelte) -  (1 month ago)
 - [Dokploy/cli](https://github.com/Dokploy/cli) - Dokploy CLI (1 month ago)
