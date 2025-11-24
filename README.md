@@ -67,9 +67,9 @@ A collection of all of my favorite GitHub automation tools.
 
 - [seckinyasar](https://github.com/seckinyasar)
 - [mcollard0](https://github.com/mcollard0)
-- [helallao](https://github.com/helallao)
 - [JeffCarpenter](https://github.com/JeffCarpenter)
 - [slavaGanzin](https://github.com/slavaGanzin)
+- [b03073557](https://github.com/b03073557)
 
 #### 💬 Feedback
 
